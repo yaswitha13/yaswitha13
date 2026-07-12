@@ -1,5 +1,5 @@
 <p align="center">
-<img src="YOUR_BANNER_IMAGE_URL" width="100%">
+ <img src="https://raw.githubusercontent.com/yaswitha13/yaswitha13/main/ChatGPT%20Image%20Jul%2012,%202026,%2010_31_40%20AM.png" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Paruchuri Yaswitha</h1>
